@@ -1,3 +1,4 @@
+# NJ (Noah) Dollenberg u24596142
 # Reflection for IMY 210 Unit Assignment 3
 
 This assignment had me develop a blog website with a Strapi backend, Nuxt frontend, and deployed it using Docker.
